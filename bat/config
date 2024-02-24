@@ -1,0 +1,3 @@
+--paging=always
+--style="header-filename,header-filesize,numbers,rule"
+--theme=catppuccin-mocha

@@ -1,6 +1,6 @@
 # 🛠️ dotconfig
 
-My configuration files for [Arch Linux](https://archlinux.org/).
+My configuration files for [Manjaro Linux](https://manjaro.org/).
 
 ## 💻 My Setup
 

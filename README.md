@@ -1,4 +1,4 @@
-# 🛠️ dotconfig
+# 🛠️ dotfiles
 
 My configuration files for [Manjaro Linux](https://manjaro.org/).
 
